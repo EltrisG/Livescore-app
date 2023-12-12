@@ -1,0 +1,14 @@
+/* Example CSS for the active button */
+.btn.active {
+  /* Add your active styles here */
+  /* For example: */
+  color: white;
+  background-color: rgb(209 213 219 / 0.2);
+}
+
+
+@media (max-width: 520px){
+  .container{
+    font-size: 12px;
+  }
+}

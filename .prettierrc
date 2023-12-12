@@ -1,0 +1,18 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "jsxSingleQuote": false,
+  "arrowParens": "avoid",
+  "printWidth": 100,
+  "htmlWhitespaceSensitivity": "strict",
+  "overrides": [
+    {
+      "files": "**/*.{js,jsx,ts,tsx,html,css}",
+      "options": {
+        "tabWidth": 2,
+        "useTabs": false
+      }
+    }
+  ]
+}
